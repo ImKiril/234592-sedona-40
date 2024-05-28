@@ -2,7 +2,7 @@
 
 * Студент: [Kiril](https://up.htmlacademy.ru/htmlcss/40/user/234592).
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/id85590).
-* [Ссылка на проект](https://imkiril.github.io/234592-sedona-40/).
+* Сайт: [Мой проект Седона](https://imkiril.github.io/234592-sedona-40/).
 
 ---
 
