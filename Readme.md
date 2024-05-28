@@ -1,7 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Kiril](https://up.htmlacademy.ru/htmlcss/40/user/234592).
-* Наставник: `Неизвестно`.
+* Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/id85590).
+* [Ссылка на проект](https://imkiril.github.io/234592-sedona-40/).
 
 ---
 
